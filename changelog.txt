@@ -414,11 +414,7 @@ CHANGED
 - Added April errata.
 
 
-<<<<<<< HEAD
-2.8 (23-02-18)
-=======
 2.8 (07-23-18)
->>>>>>> pr/8
 (Eberlems)
 
 ------
@@ -445,3 +441,13 @@ NEW
 ------
 NEW
 -Corrected a few smaller errors and updated erratas
+
+2.8.3 (11-01-19)
+(Eberlems)
+
+------
+NEW
+-Added New VPs
+-Added Shattered Mirror
+-Corrected a few smaller errors
+
