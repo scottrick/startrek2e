@@ -68,6 +68,7 @@
 	<set>VP</set>
 	<set>VAP</set>
 	<set>WPAD</set>
+	<set>SM</set>
 </format>
 <format>
 	<label>Excelsior</label>
