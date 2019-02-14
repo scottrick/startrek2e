@@ -445,3 +445,10 @@ NEW
 ------
 NEW
 -Corrected a few smaller errors and updated erratas
+
+2.8.3 (02-14-19)
+(Eberlems)
+
+------
+NEW
+-Qpid added and VPs
