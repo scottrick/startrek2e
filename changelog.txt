@@ -452,3 +452,10 @@ NEW
 ------
 NEW
 -Qpid added and VPs
+
+2.8.4 (02-03-19)
+(Eberlems)
+
+------
+NEW
+-Errata and Survival of the Fittest fix
