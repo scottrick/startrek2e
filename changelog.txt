@@ -453,7 +453,7 @@ NEW
 NEW
 -Qpid added and VPs
 
-2.8.4 (02-03-19)
+2.8.4 (03-02-19)
 (Eberlems)
 
 ------
@@ -466,3 +466,5 @@ NEW
 ------
 NEW
 -A Less Perfect Union added
+-[Sta] and [SF] mix converted to only [SF] (Starfleet icon)
+-HQs now list which HQ they are
