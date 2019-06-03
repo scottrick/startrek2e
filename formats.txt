@@ -35,8 +35,9 @@
 	<set>IMD</set>
 	<set>WYLB</set>
 	<set>VP</set>
-	<set>FTB</set>
+	<set>VAP</set>
 	<set>TUC</set>
+	<set>FTB</set>
 	<set>RTS</set>
 	<set>TSOP</set>
 	<set>Leg</set>
@@ -65,10 +66,10 @@
 	<set>DS</set>
 	<set>SY</set>
 	<set>FBtS</set>
-	<set>VP</set>
-	<set>VAP</set>
-	<set>WPAD</set>
 	<set>SM</set>
+	<set>WPAD</set>
+	<set>Qpid</set>
+	<set>ALPU</set>
 </format>
 <format>
 	<label>Excelsior</label>
