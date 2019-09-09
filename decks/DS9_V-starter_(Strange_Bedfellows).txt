@@ -1,0 +1,62 @@
+1	Jake Sisko Engineer's Apprentice
+1	Kira Nerys Defiant Leader
+1	William Ross "Temporary" Ally
+1	Unexpected Difficulties
+1	Leeta Devoted Wife
+1	Quark Lumba
+1	U.S.S. Sao Paulo NCC-75633
+1	U.S.S. Centaur Patrolling Ship
+1	U.S.S. Defiant Repurposed Warship
+1	U.S.S. Defiant Repurposed Warship
+1	Croden Dissembler
+1	Kasidy Yates Freighter Captain
+1	Boq'ta
+1	Boq'ta
+1	Enrique Mu&ntilde;iz Dependable Troubleshooter
+1	Mond
+1	Mond
+1	Opaka Healer
+1	Julian Bashir Nostalgic Doctor
+1	Karen Loews Patient Chaperone
+1	Declan Keogh Veteran Captain
+1	Coil Spanner
+1	Hyperspanner
+1	Common Cause
+1	Common Purpose
+1	Keiko O'Brien Pah-Wraith Hostage
+1	Rase Norvan
+1	Rase Norvan
+1	Sarish Rez Ministerial Adjutant
+1	Benjamin Sisko Enlightened Supervisor
+1	Elizabeth Lense Valedictorian
+1	Lojal Investigative Ambassador
+1	Lwaxana Troi Extraordinary Ambassador
+1	Martok Welcome Presence
+1	T'Rul Guarded Attach&eacute;
+Dilemmas:
+1	Breaking the Ice
+1	We'll Never Know
+1	Chula: Unfortunate Roll
+1	Chula: The Precipice
+1	Dark Page
+1	Dark Page
+1	Pillage and Plunder
+1	The First Duty
+1	Galileo Grounded
+1	Greater Needs
+1	Rude Awakening
+1	Staffing Shortage
+1	Chula: Trickery
+1	Flare of Rage
+1	Frozen by Fear
+1	Unconventional Consideration
+1	Abrasive Allies
+1	Dramatis Personae
+1	Mutinous Guests
+1	Precarious Position
+Missions:
+1	Mouth of the Wormhole Deep Space 9
+1	Peaceful Contact
+1	Torga IV Strained Negotiations
+1	Stakoron II Mine Miszinite
+1	Stakoron Strait Patrol Shipping Lane
