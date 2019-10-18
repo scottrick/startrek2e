@@ -70,6 +70,7 @@
 	<set>WPAD</set>
 	<set>Qpid</set>
 	<set>ALPU</set>
+	<set>SoA</set>
 </format>
 <format>
 	<label>Excelsior</label>

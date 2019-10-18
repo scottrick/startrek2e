@@ -1,4 +1,4 @@
-CHANGELOG startrek2e plugin
+﻿CHANGELOG startrek2e plugin
 
 
 ------
@@ -463,3 +463,22 @@ NEW
 -A Less Perfect Union added
 -[Sta] and [SF] mix converted to only [SF] (Starfleet icon)
 -HQs now list which HQ they are
+
+------
+2.8.6 (10-17-19)
+(Eberlems)
+
+NEW
+-Sacrifice of Angels
+-Namechange 	(IDR) Reprints
+		Kortar Slayer of Gods
+		Arne Darvin "Hero of the Empire"
+		Worf Son of Mogh *VP
+		Rule of Acquisition #75
+		Seven of Nine Notorious Scapegoat
+		Devidia II Access Temporal Conduit
+		The Pendari Champion Electrifying Favorite
+		Mark of Gideon (ID)
+		U.S.S. Valiant Red Squad Training Ship *VP
+		Yarka Harbinger of the Prophets
+		Jean Hajar Nova Squadron Navigator

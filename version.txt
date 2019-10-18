@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>190603</lastupdateYYMMDD>
+<lastupdateYYMMDD>191017</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>Errors corrected log: https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>New set Sacrifice of Angels and direct new export log: https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>
