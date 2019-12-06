@@ -482,3 +482,12 @@ NEW
 		U.S.S. Valiant Red Squad Training Ship *VP
 		Yarka Harbinger of the Prophets
 		Jean Hajar Nova Squadron Navigator
+
+------
+2.8.7 (12-06-19)
+(Eberlems)
+
+NEW
+-Borderless Promos
+-Shining so Bright
+-Errata Nov and Dec

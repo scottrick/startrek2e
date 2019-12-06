@@ -68,9 +68,10 @@
 	<set>FBtS</set>
 	<set>SM</set>
 	<set>WPAD</set>
-	<set>Qpid</set>
+	<set>QP</set>
 	<set>ALPU</set>
-	<set>SoA</set>
+	<set>SOA</set>
+	<set>BP</set>
 </format>
 <format>
 	<label>Excelsior</label>
