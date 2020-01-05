@@ -1791,7 +1791,7 @@ Shocking Betrayal	WYLB	WYLB013	U	N	14U013	Dilemma	2	D														Choose a pers
 Spatial Distortions	WYLB	WYLB014	R	N	14R014	Dilemma	3	S							Persistent.							Choose a personnel to be placed in your discard pile.
 Toe to Toe	WYLB	WYLB019	C	N	14C019	Dilemma	1	D							Consume: 2.							Randomly select a personnel. Unless you stop that personnel and another personnel with the same cost, he or she is killed.
 Disruptive Presence	WYLB	WYLB027	U	N	14U027	Event	0															Discard a personnel from hand to download a personnel with the same affiliation as that discarded personnel, then discard a random card from hand. Destroy this event.
-U.S.S. Enterprise-J	WYLB	WYLB043	R	Y	14R043	Event	1															Plays in your core. Each of your personel at a mission that is worth 40 or more points is attributes +1.
+U.S.S. Enterprise-J	WYLB	WYLB043	R	Y	14R043	Event	1															Plays in your core. Each of your personnel at a mission that is worth 40 or more points is attributes +1.
 Dear Friends	WYLB	WYLB048	U	N	14U048	Interrupt	0															When a [DS9] personnel you command is about to be killed by a dilemma that costs 3 or more, discard an [E] personnel from hand to prevent that.
 Geordi La Forge Retired Engineer	WYLB	WYLB080	C	Y	14C080	Personnel	3					Federation	[Stf][TNG][Fut]				Human	Anthropology Biology Engineer Honor Physics	6	6	4	While this personnel is facing a Damage dilemma, you may lose 5 points to prevent and overcome that dilemma.
 Deja Q	WYLB	WYLB025	C	Y	14C025	Event	0								Q.							Plays in your core. When you reveal a Consume dilemma from your dilemma stack, you may take a Consume dilemma you own from beneath an opponent's completed mission and return it to your dilemma pile.
