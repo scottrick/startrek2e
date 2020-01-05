@@ -72,6 +72,7 @@
 	<set>ALPU</set>
 	<set>SOA</set>
 	<set>BP</set>
+	<set>In</set>
 </format>
 <format>
 	<label>Excelsior</label>

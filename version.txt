@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>191206</lastupdateYYMMDD>
+<lastupdateYYMMDD>2001205</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
 <message>Borderless Promos and Shining so Bright & Errata: https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
