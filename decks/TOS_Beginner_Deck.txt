@@ -1,0 +1,72 @@
+1	Jakin
+1	Macius
+1	Driven
+1	Driven
+1	Hikaru Sulu Senior Helmsman
+1	Matt Decker Vengeful Commodore
+1	U.S.S. Constitution
+1	U.S.S. Constitution
+1	Janice Rand Captain's Yeoman
+1	Evans
+1	Josephs
+1	Josephs
+1	U.S.S. Enterprise Beautiful Lady
+1	Montgomery Scott Chief Engineer
+1	James T. Kirk Highly-Decorated Captain
+1	Leonard H. McCoy Chief Medical Officer
+1	Uhura Skilled Technician
+1	Spock Science Officer
+1	George Stocker Starbase Commodore
+1	U.S.S. Constellation Dead Hulk
+1	Helen Noel Enterprise Psychiatrist
+1	Unexpected Difficulties
+1	Number One Reputable Officer
+1	Ishara Yar Deceitful Soldier
+1	Pavel A. Chekov Young Navigator
+1	Tolian Soran Renegade Scientist
+1	Giotto Security Chief
+1	Ronald Tracey Delusional Captain
+1	U.S.S. Enterprise-B Ill-Prepared Successor
+1	Tacking Into the Wind
+1	Nilz Baris Agricultural Undersecretary
+1	Benjamin Sisko Command Staffer
+1	Christopher Pike Bold Commander
+1	Sfreett Deadly Flower
+1	Errol
+Dilemmas:
+1	Outclassed
+1	Show Trial
+1	Miner Revolt
+1	Miner Revolt
+1	Hard Time
+1	Hard Time
+1	Mark of Gideon
+1	Healing Hand
+1	Honorable Pursuit
+1	Gomtuu Shock Wave
+1	Intimidation
+1	Intimidation
+1	Back Room Dealings
+1	Adopted Authority
+1	Inquest
+1	Inquest
+1	The Needs of the Few
+1	Unconventional Consideration
+1	Moral Choice
+1	Chula: The Chandra
+1	Chula: The Chandra
+1	Dark Page
+1	In Development
+1	In Development
+1	Guess Who's Coming to Dinner?
+1	Hard of Heart
+1	Excalbian Drama
+1	Old Differences
+1	Old Differences
+1	Rogue Borg Ambush
+Missions:
+1	Advanced Battle Simulation
+1	Secure Strategic Base
+1	Rigel X Locate Mysterious Contact
+1	Starbase 718 Investigate Cryosatellite
+1	Earth Lush and Beautiful Home

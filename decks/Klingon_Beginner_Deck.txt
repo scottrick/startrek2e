@@ -1,0 +1,72 @@
+1	Gowron Sole Leader of the Empire
+1	Jadzia Dax Sworn Ally
+1	Koral Dour Smuggler
+1	Dokar
+1	K'nera Klingon Defense Force Commander
+1	Kahmis
+1	Kahmis
+1	Kahmis
+1	Meraht
+1	Nu'Daq Tenacious Rival
+1	T'vis
+1	T'vis
+1	Vorax
+1	BaH!
+1	The Promise
+1	The Promise
+1	Relentless
+1	Relentless
+1	I.K.S. K'Vort
+1	I.K.S. Vor'cha
+1	I.K.S. Vor'cha
+1	I.K.S. Vor'cha
+1	Gorkon Visionary Chancellor
+1	Azetbur Visionary Chancellor
+1	Klag Second Officer
+1	Bridge Officer's Test
+1	William T. Riker Exchange Officer
+1	Worf Son of Mogh
+1	Filuz
+1	Filuz
+1	Kurn Son of Mogh
+1	I.K.S. Rotarran Ship of Tears
+1	Ortakin
+1	Ortakin
+1	Kortar Slayer of Gods
+Dilemmas:
+1	Outclassed
+1	No Kill I
+1	Show Trial
+1	Miner Revolt
+1	Miner Revolt
+1	Hard Time
+1	Hard Time
+1	Dark Page
+1	Mark of Gideon
+1	Healing Hand
+1	Honorable Pursuit
+1	Gomtuu Shock Wave
+1	An Issue of Trust
+1	Intimidation
+1	Intimidation
+1	Back Room Dealings
+1	Adopted Authority
+1	Inquest
+1	Inquest
+1	The Needs of the Few
+1	Unconventional Consideration
+1	Moral Choice
+1	Chula: The Chandra
+1	Chula: The Chandra
+1	In Development
+1	In Development
+1	Guess Who's Coming to Dinner?
+1	Hard of Heart
+1	Old Differences
+1	Rogue Borg Ambush
+Missions:
+1	Cardassia IV Rescue Prisoners
+1	Brute Force
+1	Crensen Gap Protect the Escapees
+1	Provoke Interstellar Incident
+1	Qo'noS Heart of the Empire

@@ -1,0 +1,72 @@
+1	Requisitions Drone
+1	Five of Twelve Secondary Adjunct of Trimatrix 942
+1	Reconnaissance Drone
+1	Reconnaissance Drone
+1	Reconnaissance Drone
+1	Computation Drone
+1	Information Drone
+1	Information Drone
+1	Invasive Drone
+1	Invasive Drone
+1	Locutus Voice of the Borg
+1	Opposition Drone
+1	Opposition Drone
+1	Opposition Drone
+1	Seven of Nine Representative of the Hive
+1	Abduction
+1	The Will of the Collective
+1	The Will of the Collective
+1	The Will of the Collective
+1	Borg Cube
+1	Borg Cube
+1	Borg Cube
+1	Changed History
+1	Three of Nine Tactician Drone
+1	Four of Nine Heuristics Drone
+1	Two of Nine Transtator Drone
+1	Two of Two Adaptation Drone
+1	Scrutiny Drone
+1	Unrelenting
+1	Locutus' Borg Cube
+1	Knowledge and Experience
+1	Quantum Drone
+1	Queen's Borg Cube
+1	Borg Queen Perfectionist
+1	Hawk Reborn
+Dilemmas:
+1	Exposed Power Relay
+1	Outclassed
+1	Compassionate Interference
+1	Hull Breach
+1	Show Trial
+1	Miner Revolt
+1	Hard Time
+1	Hard Time
+1	Intimidation
+1	Intimidation
+1	Ardent Predator
+1	Ardent Predator
+1	Back Room Dealings
+1	Overburdened
+1	Overburdened
+1	The Needs of the Few
+1	The Dal'Rok
+1	Unconventional Consideration
+1	Moral Choice
+1	Chula: The Chandra
+1	Dark Page
+1	In Development
+1	In Development
+1	Guess Who's Coming to Dinner?
+1	Hard of Heart
+1	Hard of Heart
+1	Dragon's Teeth
+1	Dragon's Teeth
+1	Old Differences
+1	Rogue Borg Ambush
+Missions:
+1	Battle Reconnaissance
+1	Hunt Alien
+1	Alpha 5 Approach Transport Crash Survivor
+1	Unicomplex Root of the Hive Mind
+1	Axiana Secure Colony

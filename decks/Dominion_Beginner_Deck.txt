@@ -1,0 +1,72 @@
+1	Ixtana'Rax Honored Elder
+1	Borath Psychological Researcher
+1	Founder Leader Forbidding Judge
+1	Ikat'ika Honorable Warrior
+1	Imat'Korex
+1	Imat'Korex
+1	Keevan Conniving Liar
+1	Kilana Dissembling Envoy
+1	Limara'Son Fierce Soldier
+1	Rak'tazan
+1	Rak'tazan
+1	Rak'tazan
+1	Tozara'Kesh
+1	Tozara'Kesh
+1	Tozara'Kesh
+1	Varen'agor
+1	Weyoun Loyal Subject of the Dominion
+1	Yelgrun Blunt Negotiator
+1	Our Death is Glory To the Founders
+1	Our Death is Glory To the Founders
+1	Jem'Hadar Warship
+1	Jem'Hadar Warship
+1	Jem'Hadar Warship
+1	Umat'Adan Eager Fifth
+1	Odo The Great Link's Savior
+1	Arak'Taral Suspicious Second
+1	Dominion Battleship
+1	Dominion Battleship
+1	Inglatu Tulaberry Merchant
+1	Crom Open-minded
+1	Rayva Bureaucratic Ally
+1	Remata'Klan Unit Leader
+1	Spiteful Strategy
+1	Crippling Strike
+1	Martok Founder False Flag Officer
+Dilemmas:
+1	Outclassed
+1	Show Trial
+1	Miner Revolt
+1	Miner Revolt
+1	Hard Time
+1	Hard Time
+1	Mark of Gideon
+1	Healing Hand
+1	Honorable Pursuit
+1	Gomtuu Shock Wave
+1	Intimidation
+1	Intimidation
+1	Back Room Dealings
+1	Adopted Authority
+1	Inquest
+1	Inquest
+1	The Needs of the Few
+1	Unconventional Consideration
+1	Moral Choice
+1	Chula: The Chandra
+1	Chula: The Chandra
+1	Dark Page
+1	In Development
+1	In Development
+1	Guess Who's Coming to Dinner?
+1	Hard of Heart
+1	Know Thy Enemy
+1	Old Differences
+1	Old Differences
+1	Rogue Borg Ambush
+Missions:
+1	Stage Covert Fleet
+1	Torga IV Strained Negotiations
+1	Founders' Homeworld Contingent Refuge
+1	Stakoron Strait Patrol Shipping Lane
+1	Teplan Prime Subjugate Planet

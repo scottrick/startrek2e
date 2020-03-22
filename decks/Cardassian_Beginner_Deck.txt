@@ -1,0 +1,72 @@
+1	Enabran Tain "Retired" Spymaster
+1	Enabran Tain "Retired" Spymaster
+1	Enabran Tain "Retired" Spymaster
+1	Dukat Prefect of Bajor
+1	Evek Harsh Interrogator
+1	Danar Irascible Gul
+1	Lemec Posturing Negotiator
+1	Rogesh
+1	Galor
+1	Galor
+1	Galor
+1	Keldon Advanced
+1	Keldon Advanced
+1	Persis Loyal Daughter
+1	Mardel Overseer
+1	Parek Privileged Legate
+1	Telle Macet's Aide
+1	Nador Curious Commander
+1	Madred Persistent Inquisitor
+1	Tolian Soran Renegade Scientist
+1	Damar Ambitious Glinn
+1	The Pendari Champion Electrifying Favorite
+1	Elim Garak Agent of the Obsidian Order
+1	The Central Command
+1	The Central Command
+1	The Central Command
+1	Gollek
+1	Tajor
+1	Tajor
+1	Tajor
+1	Mila Trusted Confidante
+1	Seska Pragmatic Agent
+1	Tacking Into the Wind
+1	Tacking Into the Wind
+1	Seven of Nine Immersed in Chaos
+Dilemmas:
+1	Cardassian Processing
+1	Outclassed
+1	No Kill I
+1	Chula: The Chandra
+1	Chula: The Chandra
+1	Show Trial
+1	Miner Revolt
+1	Miner Revolt
+1	Hard Time
+1	Hard Time
+1	Mark of Gideon
+1	Honorable Pursuit
+1	Gomtuu Shock Wave
+1	Intimidation
+1	Intimidation
+1	Back Room Dealings
+1	Adopted Authority
+1	Inquest
+1	Inquest
+1	The Needs of the Few
+1	Unconventional Consideration
+1	Moral Choice
+1	Dark Page
+1	In Development
+1	In Development
+1	Guess Who's Coming to Dinner?
+1	Hard of Heart
+1	Old Differences
+1	Old Differences
+1	Rogue Borg Ambush
+Missions:
+1	Eliminate Harvesters
+1	Intercept Renegade
+1	Kreetassa Perform Intricate Ritual
+1	Deep Space Station K-7 Monitor Federation Commerce
+1	Cardassia Prime Hardscrabble World

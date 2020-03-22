@@ -1,0 +1,72 @@
+1	Odo Curzon Odo
+1	Elim Garak Plain, Simple Tailor
+1	Jakin
+1	Julian Bashir "Unnatural Freak"
+1	Hoya
+1	Hoya
+1	Jadzia Dax Science Officer
+1	Paulson
+1	Bajoran Scout Vessel
+1	U.S.S. Akira
+1	U.S.S. Akira
+1	Vic Fontaine Vegas Crooner
+1	Rom Younger Brother
+1	Flink
+1	U.S.S. Ganges One of the First
+1	Leeta Devoted Wife
+1	U.S.S. Centaur Patrolling Ship
+1	Kira Nerys Colonel Kira
+1	Quark Little Green Man
+1	Kasidy Yates Freighter Captain
+1	Paxton Reese Stellar Cartographer
+1	Common Cause
+1	Common Cause
+1	Common Purpose
+1	Common Purpose
+1	Common Enemy
+1	Sarish Rez Ministerial Adjutant
+1	Benjamin Sisko Enlightened Supervisor
+1	Lwaxana Troi Extraordinary Ambassador
+1	Martok Welcome Presence
+1	T'Rul Guarded Attache
+1	Worf Defiant Commander
+1	Sorad
+1	Nog Drill Instructor
+1	Sfreett Deadly Flower
+Dilemmas:
+1	Outclassed
+1	Show Trial
+1	Miner Revolt
+1	Miner Revolt
+1	Hard Time
+1	Hard Time
+1	Dark Page
+1	Mark of Gideon
+1	Healing Hand
+1	Honorable Pursuit
+1	Gomtuu Shock Wave
+1	Intimidation
+1	Intimidation
+1	Back Room Dealings
+1	Adopted Authority
+1	Inquest
+1	Inquest
+1	The Needs of the Few
+1	Unconventional Consideration
+1	Moral Choice
+1	Chula: The Chandra
+1	Chula: The Chandra
+1	Abrasive Allies
+1	In Development
+1	In Development
+1	Guess Who's Coming to Dinner?
+1	Hard of Heart
+1	Old Differences
+1	Old Differences
+1	Rogue Borg Ambush
+Missions:
+1	Investigate Destruction
+1	Torga IV Strained Negotiations
+1	Ba'ku Planet Safeguard Civilization
+1	Mouth of the Wormhole Deep Space 9
+1	Crensen Gap Protect the Escapees
