@@ -650,15 +650,7 @@
                     <eval>IS</eval>
                     <data>Qo'noS Heart of the Empire</data>
                 </crit>
-            </kind>
-            <kind>
-                <qty>1</qty>
-                <crit>
-                    <field>Name</field>
-                    <eval>IS</eval>
-                    <data>Ty Kajada Relentless Investigator</data>
-                </crit>
-            </kind>
+            </kind>            
         </chance>
     </pack>
 </packdefinitions>
