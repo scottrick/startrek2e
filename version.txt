@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>200322</lastupdateYYMMDD>
+<lastupdateYYMMDD>200417</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>New Promos, Errata & Beginner Decks: https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>The Omega Directive added: https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>

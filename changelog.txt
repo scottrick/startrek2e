@@ -510,3 +510,10 @@ NEW
 -VPs
 -March Errata
 -Beginner Decks
+
+------
+2.9.0 (04-17-20)
+(Eberlems)
+
+NEW
+-The Omega Directive
