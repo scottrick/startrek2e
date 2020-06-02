@@ -524,3 +524,10 @@ NEW
 
 Updated
 -Format
+
+------
+2.9.2 (06-02-20)
+(Eberlems)
+
+Updated
+-Errata June

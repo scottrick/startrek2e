@@ -2,6 +2,7 @@
 <format>
 	<label>Traditional</label>
 	<set>X</set>
+	<set>Promo</set>
 	<set>SE</set>
 	<set>En</set>
 	<set>CA</set>
@@ -20,6 +21,7 @@
 <format>
 	<label>Standard</label>
 	<set>X</set>
+	<set>Promo</set>
 	<set>SE</set>
 	<set>En</set>
 	<set>CA</set>

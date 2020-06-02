@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>200424</lastupdateYYMMDD>
+<lastupdateYYMMDD>200602</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>The Omega Directive legal: https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>June Errata: https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>
