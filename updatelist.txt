@@ -1,7 +1,7 @@
 startrek2e	07-10-20
 plugins/startrek2e/version.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt	36871
 plugins/startrek2e/defaultchat.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/defaultchat.txt	25474
-plugins/startrek2e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/uninstall.txt	69782
+plugins/startrek2e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/uninstall.txt	70346
 plugins/startrek2e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/plugininfo.txt	578009
 plugins/startrek2e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/formats.txt	108984
 plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt	675743
