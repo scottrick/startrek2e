@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>200710</dateYYMMDD>
+<dateYYMMDD>200709</dateYYMMDD>
 <removepath>sets/setimages/general/STVP-EN255.jpg</removepath>
 <removepath>sets/setimages/general/STVP-EN256.jpg</removepath>
 <removepath>sets/setimages/general/STVP-EN257.jpg</removepath>
