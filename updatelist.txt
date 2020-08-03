@@ -5,8 +5,8 @@ plugins/startrek2e/uninstall.txt	https://raw.githubusercontent.com/eberlems/star
 plugins/startrek2e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/plugininfo.txt	578009
 plugins/startrek2e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/formats.txt	108984
 plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt	681230
-plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Virtual.txt	42315325
-plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Physical.txt	40705036
+plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Virtual.txt	42326908
+plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Physical.txt	40710751
 plugins/startrek2e/sets/Reflection_2_0_reprints.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Reflection_2_0_reprints.txt	1410725
 plugins/startrek2e/sets/Excelsior.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Excelsior.txt	9948082
 plugins/startrek2e/sets/Excelsior11.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Excelsior11.txt	12915142
