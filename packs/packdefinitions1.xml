@@ -1,6 +1,6 @@
 <packdefinitions version="1.0">
     <pack>
-        <packtitle>Boosterpack - Second Edition"</packtitle>
+        <packtitle>Boosterpack - Second Edition</packtitle>
         <packimage>01-SE</packimage>
         <packkind>Booster</packkind>
         <packdoubles>yes</packdoubles>
@@ -149,6 +149,82 @@
                     <field>Rarity</field>
                     <eval>IS</eval>
                     <data>C</data>
+                </crit>
+            </kind>
+        </chance>
+    </pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+    <pack>
+        <packtitle>Boosterpack - Reflections 2.0</packtitle>
+        <packimage>06-R2</packimage>
+        <packkind>Booster</packkind>
+        <packdoubles>yes</packdoubles>        
+        <chance>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>SET</field>
+                    <eval>IS</eval>
+                    <data>R2</data>
+                </crit>
+                <crit>
+                    <field>Rarity</field>
+                    <eval>IS</eval>
+                    <data>P</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>1</qty>
+                <crit>
+                    <field>SET</field>
+                    <eval>IS</eval>
+                    <data>R2</data>
+                </crit>
+                <crit>
+                    <field>Rarity</field>
+                    <eval>IS</eval>
+                    <data>R</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>4</qty>
+                <crit>
+                    <field>Set</field>
+                    <eval>IS</eval>
+                    <data>SE</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>3</qty>
+                <crit>
+                    <field>Set</field>
+                    <eval>IS</eval>
+                    <data>En</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>4</qty>
+                <crit>
+                    <field>Set</field>
+                    <eval>IS</eval>
+                    <data>CA</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>3</qty>
+                <crit>
+                    <field>Rarity</field>
+                    <eval>IS</eval>
+                    <data>S</data>
+                </crit>
+            </kind>
+            <kind>
+                <qty>2</qty>
+                <crit>
+                    <field>Set</field>
+                    <eval>IS</eval>
+                    <data>NE</data>
                 </crit>
             </kind>
         </chance>
@@ -388,3 +464,4 @@
         </chance>
     </pack>
 </packdefinitions>
+
