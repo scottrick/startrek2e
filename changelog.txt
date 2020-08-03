@@ -539,3 +539,13 @@ Updated
 Updated
 -Errata July
 -New VPs
+
+
+------
+2.9.4 (08-03-20)
+(Eberlems)
+
+Updated
+-Errata August
+NEW
+-Ref 2.0 booster

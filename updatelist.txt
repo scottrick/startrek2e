@@ -1,12 +1,13 @@
-startrek2e	07-10-20
-plugins/startrek2e/version.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt	36871
+startrek2e	08-03-20
+plugins/startrek2e/version.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt	37639
 plugins/startrek2e/defaultchat.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/defaultchat.txt	25474
 plugins/startrek2e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/uninstall.txt	74098
 plugins/startrek2e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/plugininfo.txt	578009
 plugins/startrek2e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/formats.txt	108984
-plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt	675743
+plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt	681230
 plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Virtual.txt	42315325
 plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Physical.txt	40705036
+plugins/startrek2e/sets/Reflection_2_0_reprints.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Reflection_2_0_reprints.txt	1410725
 plugins/startrek2e/sets/Excelsior.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Excelsior.txt	9948082
 plugins/startrek2e/sets/Excelsior11.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Excelsior11.txt	12915142
 plugins/startrek2e/av-st-back.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/av-st-back.jpg	5386
@@ -74,7 +75,7 @@ plugins/startrek2e/packs/15-TUC.jpg	https://raw.githubusercontent.com/eberlems/s
 plugins/startrek2e/packs/16-FTB.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/16-FTB.jpg	8244
 plugins/startrek2e/packs/17-RTS.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/17-RTS.jpg	922
 plugins/startrek2e/packs/18-TSOP.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/18-TSOP.jpg	-8278
-plugins/startrek2e/packs/packdefinitions1.xml	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/packdefinitions1.xml	671487
+plugins/startrek2e/packs/packdefinitions1.xml	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/packdefinitions1.xml	792956
 plugins/startrek2e/packs/packdefinitions2.xml	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/packdefinitions2.xml	4478361
 plugins/startrek2e/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/setimages/general/CardMissing.jpg	177461
 plugins/startrek2e/sets/setimages/general/Spawned.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/setimages/general/Spawned.jpg	163676
