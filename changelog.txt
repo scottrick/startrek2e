@@ -540,7 +540,6 @@ Updated
 -Errata July
 -New VPs
 
-
 ------
 2.9.4 (08-03-20)
 (Eberlems)
@@ -549,3 +548,12 @@ Updated
 -Errata August
 NEW
 -Ref 2.0 booster
+
+------
+2.9.5 (08-29-20)
+(Eberlems)
+
+NEW
+--All our Yesterdays
+Updated
+--Ref 2.0 booster

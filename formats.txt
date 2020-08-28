@@ -76,6 +76,7 @@
 	<set>BP</set>
 	<set>In</set>
 	<set>OD</set>
+	<set>AoY</set>
 </format>
 <format>
 	<label>Excelsior</label>
