@@ -557,3 +557,10 @@ NEW
 --All our Yesterdays
 Updated
 --Ref 2.0 booster
+
+2.9.6 (09-19-20)
+(Eberlems)
+
+Updated
+--Excelsior card names
+--card data updates

@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>200829</lastupdateYYMMDD>
+<lastupdateYYMMDD>200919</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>New Expansion All our Yesterdays: https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>card corrections https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>
