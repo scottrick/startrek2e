@@ -564,3 +564,9 @@ Updated
 Updated
 --Excelsior card names
 --card data updates
+
+2.9.7 (11-13-20)
+(Eberlems)
+
+NEW
+--Apocalypse Rising
