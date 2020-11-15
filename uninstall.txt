@@ -1,16 +1,6 @@
 <uninstall>
-<dateYYMMDD>200709</dateYYMMDD>
-<removepath>sets/setimages/general/STVP-EN255.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN256.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN257.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN258.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN259.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN260.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN261.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN262.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN263.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN264.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN266.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN278.jpg</removepath>
+<dateYYMMDD>201114</dateYYMMDD>
+<removepath>sets/Virtual.txt</removepath>
+<removepath>formats.txt</removepath>
 </uninstall>
 
