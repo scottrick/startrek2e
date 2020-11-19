@@ -570,3 +570,9 @@ Updated
 
 NEW
 --Apocalypse Rising
+
+2.9.7.1 (11-20-20)
+(Eberlems)
+
+Changed
+--Emergency Errata
