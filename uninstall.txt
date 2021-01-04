@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>201206</dateYYMMDD>
+<dateYYMMDD>210103</dateYYMMDD>
 <removepath>sets/Virtual.txt</removepath>
+<removepath>formats.txt</removepath>
 </uninstall>
-

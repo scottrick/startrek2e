@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>201207</lastupdateYYMMDD>
+<lastupdateYYMMDD>210104</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>Errata December https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>New: Move Along Home https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>

@@ -1,11 +1,11 @@
-startrek2e	12-07-20
-plugins/startrek2e/version.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt	36172
+startrek2e	01-04-21
+plugins/startrek2e/version.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt	36487
 plugins/startrek2e/defaultchat.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/defaultchat.txt	25474
-plugins/startrek2e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/uninstall.txt	8708
+plugins/startrek2e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/uninstall.txt	12323
 plugins/startrek2e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/plugininfo.txt	578009
-plugins/startrek2e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/formats.txt	111465
-plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt	700948
-plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Virtual.txt	43785495
+plugins/startrek2e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/formats.txt	113766
+plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt	704331
+plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Virtual.txt	44367949
 plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Physical.txt	40755048
 plugins/startrek2e/sets/Reflection_2_0_reprints.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Reflection_2_0_reprints.txt	1410725
 plugins/startrek2e/sets/Excelsior.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Excelsior.txt	9948078

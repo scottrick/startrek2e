@@ -78,6 +78,8 @@
 	<set>OD</set>
 	<set>AoY</set>
 	<set>AR</set>
+	<set>SL</set>
+	<set>MAH</set>
 </format>
 <format>
 	<label>Excelsior</label>
