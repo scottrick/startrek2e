@@ -577,8 +577,14 @@ NEW
 Updated
 --Errata December
 
-2.9.9 (12-04-21)
+2.9.9 (01-04-21)
 (Eberlems)
 
 NEW
 --Move Along Home
+
+3.0.0 (01-15-21)
+(Eberlems)
+
+NEW
+--Shore Leave
