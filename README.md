@@ -1,2 +1,4 @@
 # startrek2e
-Startrek 2e plugin for LackeyCCG
+Star Trek 2e plugin for LackeyCCG
+
+the branch used for online play is "playable"
