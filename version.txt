@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>210115</lastupdateYYMMDD>
+<lastupdateYYMMDD>210307</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>New: Shore Leave https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>Printable update, namechange Organia, Secure Strategic Base and Sector 21396, Commandeer Prototype https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>

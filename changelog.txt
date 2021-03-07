@@ -588,3 +588,13 @@ NEW
 
 NEW
 --Shore Leave
+
+3.0.1 (03-07-21)
+(Eberlems)
+
+NEW
+--Tournament Promo - Series XXI
+
+Updated
+--Organia, Secure Strategic Base
+--Sector 21396, Commandeer Prototype

@@ -1,5 +1,11 @@
 <uninstall>
-<dateYYMMDD>210103</dateYYMMDD>
+<dateYYMMDD>210306</dateYYMMDD>
 <removepath>sets/Virtual.txt</removepath>
-<removepath>formats.txt</removepath>
+<removepath>sets/Physical.txt</removepath>
+<removepath>sets/setimages/general/STVP-EN276.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN289.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN290.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN291.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN292.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN319.jpg</removepath>
 </uninstall>
