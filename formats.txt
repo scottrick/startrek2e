@@ -17,6 +17,7 @@
 	<set>TV</set>
 	<set>IMD</set>
 	<set>WYLB</set>
+	<set>AC</set>
 </format>
 <format>
 	<label>Standard</label>
@@ -80,6 +81,8 @@
 	<set>AR</set>
 	<set>SL</set>
 	<set>MAH</set>
+	<set>HaD</set>
+	<set>AC</set>
 </format>
 <format>
 	<label>Excelsior</label>

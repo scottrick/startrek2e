@@ -596,5 +596,27 @@ NEW
 --Tournament Promo - Series XXI
 
 Updated
---Organia, Secure Strategic Base
---Sector 21396, Commandeer Prototype
+--Organia Secure Strategic Base
+--Sector 21396 Commandeer Prototype
+
+3.0.2 (05-03-21)
+(Eberlems)
+
+Updated
+--OrganiaSecure Strategic Base
+--Sector 21396Commandeer Prototype
+--McAllister C-5 Nebula, Mine Nebula
+--James T. Kirk Original Thinker
+--An Issue of Trust
+--Hard Time
+--Unexpected Difficulties
+--Outmatched
+--Entanglement
+--Holding Cell *VP
+--Covenant *VP
+--Power Shift *VP 132
+--Ilia Finest Navigator in Starfleet *VP
+--Unexpected Difficulties *VP
+--Hard Time *VP
+--An Issue of Trust *VP
+--Entanglement *VP
