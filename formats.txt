@@ -84,12 +84,4 @@
 	<set>HaD</set>
 	<set>AC</set>
 </format>
-<format>
-	<label>Excelsior</label>
-	<set>Excelsior</set>
-</format>
-<format>
-	<label>Excelsior 1.1</label>
-	<set>Excelsior11</set>
-</format>
 </formatdefinitions>

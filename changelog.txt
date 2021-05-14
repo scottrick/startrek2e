@@ -554,69 +554,78 @@ NEW
 (Eberlems)
 
 NEW
---All our Yesterdays
+-All our Yesterdays
 Updated
---Ref 2.0 booster
+-Ref 2.0 booster
 
 2.9.6 (09-19-20)
 (Eberlems)
 
 Updated
---Excelsior card names
---card data updates
+-Excelsior card names
+-card data updates
 
 2.9.7 (11-13-20)
 (Eberlems)
 
 NEW
---Apocalypse Rising
+-Apocalypse Rising
 
 2.9.8 (12-07-20)
 (Eberlems)
 
 Updated
---Errata December
+-Errata December
 
 2.9.9 (01-04-21)
 (Eberlems)
 
 NEW
---Move Along Home
+-Move Along Home
 
 3.0.0 (01-15-21)
 (Eberlems)
 
 NEW
---Shore Leave
+-Shore Leave
 
 3.0.1 (03-07-21)
 (Eberlems)
 
 NEW
---Tournament Promo - Series XXI
+-Tournament Promo - Series XXI
 
 Updated
---Organia Secure Strategic Base
---Sector 21396 Commandeer Prototype
+-Organia Secure Strategic Base
+-Sector 21396 Commandeer Prototype
 
 3.0.2 (05-03-21)
 (Eberlems)
 
 Updated
---OrganiaSecure Strategic Base
---Sector 21396Commandeer Prototype
---McAllister C-5 Nebula, Mine Nebula
---James T. Kirk Original Thinker
---An Issue of Trust
---Hard Time
---Unexpected Difficulties
---Outmatched
---Entanglement
---Holding Cell *VP
---Covenant *VP
---Power Shift *VP 132
---Ilia Finest Navigator in Starfleet *VP
---Unexpected Difficulties *VP
---Hard Time *VP
---An Issue of Trust *VP
---Entanglement *VP
+-OrganiaSecure Strategic Base
+-Sector 21396 Commandeer Prototype
+-McAllister C-5 Nebula, Mine Nebula
+-James T. Kirk Original Thinker
+-An Issue of Trust
+-Hard Time
+-Unexpected Difficulties
+-Outmatched
+-Entanglement
+-Holding Cell *VP
+-Covenant *VP
+-Power Shift *VP 132
+-Ilia Finest Navigator in Starfleet *VP
+-Unexpected Difficulties *VP
+-Hard Time *VP
+-An Issue of Trust *VP
+-Entanglement *VP
+-Machinations *VP
+
+3.0.2 (05-14-21)
+(Eberlems)
+
+NEW
+-Heroes and Demons
+DELETED
+-Excelsior Format
