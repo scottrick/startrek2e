@@ -353,4 +353,10 @@
     "code": "SL",
     "virtual": true
   }
+  {
+    "id": "229",
+    "name": "Heroes and Demons",
+    "code": "HaD",
+    "virtual": true
+  }
 ]
