@@ -629,3 +629,10 @@ NEW
 -Heroes and Demons
 DELETED
 -Excelsior Format
+
+3.0.3 (08-08-21)
+(Eberlems)
+
+NEW
+-VPs
+-Promo/A images
