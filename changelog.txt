@@ -636,3 +636,27 @@ DELETED
 NEW
 -VPs
 -Promo/A images
+
+3.0.4 (09-07-21)
+(Eberlems)
+
+Updated
+-Adopted Authority *VP
+-Trellium-D *VP
+-Misdirection *VP
+-Jean Hajar (Nova Squadron Navigator) *VP
+-Revised Doctor (Mass Murderer) *VP
+-Tuvok (Undercover) *VP
+-Uhura (Experienced Technician) *VP
+-Gint (The First Grand Nagus) *VP
+-D'Vela *VP
+-Founder Leader (Desperate Dictator) *VP
+-Vedek Assembly Transport (BP)
+-Borg Cube (BP)
+-Jem'Hadar Warship (BP)
+-U.S.S. Enterprise (Beautiful Lady) (BP)
+-U.S.S. Excelsior (BP)
+-U.S.S. Voyager (Home Away From Home) (BP)
+-Kurdon (BP)
+-I.K.S. Vor'cha (BP)
+-Mercenary Ship (BP)
