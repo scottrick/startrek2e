@@ -358,5 +358,11 @@
     "name": "Heroes and Demons",
     "code": "HaD",
     "virtual": true
+  },
+  {
+    "id": "232",
+    "name": "Caretaker",
+    "code": "Ctkr",
+    "virtual": true
   }
 ]
