@@ -660,3 +660,15 @@ Updated
 -Kurdon (BP)
 -I.K.S. Vor'cha (BP)
 -Mercenary Ship (BP)
+
+3.0.5 (10-02-21)
+(Eberlems)
+
+Updated
+-Jaresh-Inyo, Federation President
+-Playing by the Rules
+-Unexpected Difficulties
+-Unexpected Difficulties *VP
+-Audacious Assault
+-Matthew Dougherty, Misguided Admiral
+-Matthew Dougherty, Misguided Admiral *VP
