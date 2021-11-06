@@ -678,3 +678,21 @@ Updated
 
 NEW
 -Caretaker
+
+3.0.7 (11-06-21)
+(Eberlems)
+
+Updated
+-A, P and D Promos/Foils
+-Hippocratic Oath *
+-Population 9 Billion - All Borg *
+-Talnot **VP
+-Confined to Quarters
+-History Repeats Itself
+-Hall of Warriors
+-Sphere 117, Renegade Borg Sphere
+-I Stand With My Shipmates
+-The Undiscovered Country
+-Joseph Sisko, Creole Chef
+-Telek R'Mor, Anachronistic Visitor
+-Guinan, Battleship Bartender
